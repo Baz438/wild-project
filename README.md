@@ -1,4 +1,4 @@
 # wild-project
+How to install this project?
 
-workshop git/github
-learn github
+All we have to do for now is clone it.
